@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm an aspiring software engineer, passionate about all things tech</h3>
+<h3 align="center">Hi, I'm an aspiring software engineer, passionate about all things tech. Learning the basics</h3>
 
 - 🔭 I’m currently working on a Spring Boot course.
 
